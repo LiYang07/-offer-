@@ -1,0 +1,4 @@
+﻿  29.cpp
+e:\liyang\剑指offer牛课\29数组中超过一半的数字\29.cpp(15): warning C4018: “<”: 有符号/无符号不匹配
+e:\liyang\剑指offer牛课\29数组中超过一半的数字\29.cpp(26): warning C4715: “Solution::MoreThanHalfNum_Solution”: 不是所有的控件路径都返回值
+  29数组中超过一半的数字.vcxproj -> E:\liyang\剑指offer牛课\Debug\29数组中超过一半的数字.exe
