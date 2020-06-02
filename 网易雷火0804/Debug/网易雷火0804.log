@@ -1,0 +1,5 @@
+﻿  2.cpp
+e:\liyang\剑指offer牛课\网易雷火0804\2.cpp(28): warning C4244: “参数”: 从“double”转换到“const unsigned int”，可能丢失数据
+e:\liyang\剑指offer牛课\网易雷火0804\2.cpp(33): warning C4018: “<”: 有符号/无符号不匹配
+e:\liyang\剑指offer牛课\网易雷火0804\2.cpp(34): warning C4018: “<”: 有符号/无符号不匹配
+  网易雷火0804.vcxproj -> E:\liyang\剑指offer牛课\Debug\网易雷火0804.exe

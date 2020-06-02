@@ -1,2 +1,3 @@
-﻿  20.cpp
-  20顺时针打印数组.vcxproj -> E:\liyang\剑指offer牛课\Debug\20顺时针打印数组.exe
+﻿D:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(20顺时针打印数组.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  20.cpp
+  20顺时针打印数组.vcxproj -> E:\liyang\剑指offer牛课\Debug\20.顺时针打印数组.exe

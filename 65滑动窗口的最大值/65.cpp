@@ -15,7 +15,7 @@ public:
 		vector<int> res;
 		deque<int> index;
 		for (int i = 0; i < size; i++) {
-			while (!index.empty() && num[i] >= num[index.back()])//第一次只放最大的
+			while (!index.empty() && num[i] >= num[index.back()])
 				index.pop_back();
 			index.push_back(i);
 		}

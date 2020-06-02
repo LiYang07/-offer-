@@ -1,0 +1,5 @@
+﻿  2.cpp
+e:\liyang\剑指offer牛课\大疆0804\2.cpp(8): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\liyang\剑指offer牛课\大疆0804\2.cpp(24): warning C4018: “<”: 有符号/无符号不匹配
+e:\liyang\剑指offer牛课\大疆0804\2.cpp(32): warning C4018: “<”: 有符号/无符号不匹配
+  大疆0804.vcxproj -> E:\liyang\剑指offer牛课\Debug\大疆0804.exe

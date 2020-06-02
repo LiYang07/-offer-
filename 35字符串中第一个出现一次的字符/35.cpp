@@ -31,6 +31,8 @@ public:
 };
 
 int main(){
+	int a[10] = {0};
+	cout << a[1];
 	Solution s;
 	cout << s.FirstNotRepeatingChar("google") << endl;
 	system("pause");
